@@ -1,3 +1,5 @@
 # firstrepo-demo
-This one is first repo.
-Changing it now
+Leaering Git and Git Hub
+<br>
+
+Creator :Abdul Rahman
